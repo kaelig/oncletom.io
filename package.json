@@ -6,7 +6,7 @@
     "node": ">= 8.0.0"
   },
   "hexo": {
-    "version": "3.6.0"
+    "version": "3.7.1"
   },
   "scripts": {
     "build": "hexo generate",
@@ -27,7 +27,6 @@
     "hexo-generator-feed": "^1.2.2",
     "hexo-generator-index": "^0.2.0",
     "hexo-renderer-ejs": "^0.3.1",
-    "hexo-renderer-less": "^0.2.0",
     "hexo-renderer-markdown-it": "^3.4.1",
     "hexo-server": "^0.2.2",
     "hexo-tag-soundcloud": "^1.0.2",
