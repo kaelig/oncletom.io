@@ -1,10 +1,7 @@
-# Hexo Configuration
-## Docs: http://zespia.tw/hexo/docs/configure.html
-## Source: https://github.com/tommy351/hexo/
 
 # Site
 title: oncletom.io
-subtitle: A blog about *Web technologies* and *human experience*.
+subtitle: A blog about Web technologies and human experience.
 author: Thomas Parisot
 email: hi@oncletom.io
 default_cover: https://oncletom.io/images/thomas-parisot.jpg
